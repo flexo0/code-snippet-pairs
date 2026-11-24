@@ -1,0 +1,95 @@
+rule	why it is left out
+errorprone/AddressSelection	resolves an address another way
+errorprone/AlmostExhaustiveTestParameter	adds an assumption to the test
+errorprone/ArrayToString	Error Prone's error group: the fix mends a bug, the behaviour changes
+errorprone/AssertThrowsMinimizer	moves code out of assertThrows: what the test checks changes
+errorprone/AssertThrowsMultipleStatements	moves code out of assertThrows: what the test checks changes
+errorprone/AutoValueBuilderDefaultsInConstructor	Error Prone's error group: the fix mends a bug, the behaviour changes
+errorprone/BareDotMetacharacter	the regex matches something else
+errorprone/BoxingComparator	compares otherwise
+errorprone/CanIgnoreReturnValueSuggester	adds an annotation, a contract
+errorprone/CheckReturnValue	Error Prone's error group: the fix mends a bug, the behaviour changes
+errorprone/CheckReturnValueWellKnownLibraries	Error Prone's untagged group: the fix mends a bug, the behaviour changes
+errorprone/CompareToZero	Error Prone's error group: the fix mends a bug, the behaviour changes
+errorprone/ConstantOverflow	Error Prone's error group: the fix mends a bug, the behaviour changes
+errorprone/DeduplicateConstants	Error Prone's error group: the fix mends a bug, the behaviour changes
+errorprone/DefaultLocale	adds a locale
+errorprone/DirectInvocationOnMock	changes what the mock does
+errorprone/DiscardedPostfixExpression	Error Prone's error group: the fix mends a bug, the behaviour changes
+errorprone/DistinctVarargsChecker	changes the arguments
+errorprone/DoubleBraceInitialization	Error Prone's error group: the fix mends a bug, the behaviour changes
+errorprone/EqualsGetClass	Error Prone's fragile_code group: the fix mends a bug, the behaviour changes
+errorprone/EqualsUnsafeCast	adds an instanceof check
+errorprone/ErroneousThreadPoolConstructorChecker	changes the pool
+errorprone/ExpectedExceptionChecker	changes what the test checks
+errorprone/FieldMissingNullable	adds a nullness annotation
+errorprone/FloggerLogVarargs	Error Prone's error group: the fix mends a bug, the behaviour changes
+errorprone/FloggerRequiredModifiers	adds modifiers
+errorprone/FormatStringShouldUsePlaceholders	formats otherwise
+errorprone/HashCodeInObjectsHash	hashes otherwise
+errorprone/IdentityHashMapUsage	compares keys otherwise
+errorprone/ImmutableMemberCollection	makes a collection immutable
+errorprone/ImmutableRefactoring	makes a type immutable
+errorprone/ImpossibleNullComparison	Error Prone's error group: the fix mends a bug, the behaviour changes
+errorprone/IncompatibleModifiersChecker	Error Prone's error group: the fix mends a bug, the behaviour changes
+errorprone/IncorrectMainMethod	changes the entry point
+errorprone/InterruptedExceptionSwallowed	adds handling of the interrupt
+errorprone/InterruptedInCatchBlock	adds handling of the interrupt
+errorprone/JUnit3FloatingPointComparisonWithoutDelta	compares with a delta
+errorprone/LenientFormatStringValidation	Error Prone's error group: the fix mends a bug, the behaviour changes
+errorprone/ListRemoveAmbiguous	removes another element
+errorprone/LockNotBeforeTry	Error Prone's fragile_code group: the fix mends a bug, the behaviour changes
+errorprone/LockOnBoxedPrimitive	Error Prone's error group: the fix mends a bug, the behaviour changes
+errorprone/LongDoubleConversion	converts otherwise
+errorprone/MathRoundIntLong	Error Prone's error group: the fix mends a bug, the behaviour changes
+errorprone/MemorySegmentReferenceEquality	Error Prone's error group: the fix mends a bug, the behaviour changes
+errorprone/MissingDefault	adds a default case
+errorprone/MissingFail	adds a fail() to the test
+errorprone/MisusedDayOfYear	Error Prone's error group: the fix mends a bug, the behaviour changes
+errorprone/MisusedWeekYear	Error Prone's error group: the fix mends a bug, the behaviour changes
+errorprone/MixedMutabilityReturnType	returns an immutable copy
+errorprone/MultimapKeys	iterates otherwise
+errorprone/MustBeClosedChecker	Error Prone's error group: the fix mends a bug, the behaviour changes
+errorprone/NarrowCalculation	computes in a wider type
+errorprone/NoCanIgnoreReturnValueOnClasses	Error Prone's error group: the fix mends a bug, the behaviour changes
+errorprone/NonFinalStaticField	makes a field final
+errorprone/NullNeedsCastForVarargs	Error Prone's error group: the fix mends a bug, the behaviour changes
+errorprone/NullOptional	passes an empty Optional, not null
+errorprone/NullableTypeParameter	moves a nullness annotation
+errorprone/NullableWildcard	moves a nullness annotation
+errorprone/ObjectsHashCodePrimitive	hashes otherwise
+errorprone/OptionalMapUnusedValue	Error Prone's error group: the fix mends a bug, the behaviour changes
+errorprone/OptionalOfRedundantMethod	Error Prone's error group: the fix mends a bug, the behaviour changes
+errorprone/PreferCharsetOverload	adds a charset
+errorprone/ProtoBuilderReturnValueIgnored	Error Prone's error group: the fix mends a bug, the behaviour changes
+errorprone/RecordAccessorInCompactConstructor	Error Prone's error group: the fix mends a bug, the behaviour changes
+errorprone/RecordComponentAccessorAnnotationConflict	changes annotations
+errorprone/RecordComponentOverride	changes a record's accessor
+errorprone/RequiredModifiersChecker	Error Prone's error group: the fix mends a bug, the behaviour changes
+errorprone/ReturnMissingNullable	adds a nullness annotation
+errorprone/ReturnValueIgnored	Error Prone's error group: the fix mends a bug, the behaviour changes
+errorprone/StaticQualifiedUsingExpression	Error Prone's fragile_code group: the fix mends a bug, the behaviour changes
+errorprone/StreamToIterable	Error Prone's fragile_code group: the fix mends a bug, the behaviour changes
+errorprone/StringCaseLocaleUsage	adds a locale
+errorprone/StringCharset	adds a charset
+errorprone/StringJoin	Error Prone's error group: the fix mends a bug, the behaviour changes
+errorprone/StringSplitter	splits otherwise (Guava's Splitter)
+errorprone/StronglyTypeByteString	changes a field's type
+errorprone/StronglyTypeTime	changes a field's type to a Duration
+errorprone/SubstringOfZero	Error Prone's error group: the fix mends a bug, the behaviour changes
+errorprone/SuperCallToObjectMethod	Error Prone's likely_error group: the fix mends a bug, the behaviour changes
+errorprone/TestExceptionChecker	Error Prone's error group: the fix mends a bug, the behaviour changes
+errorprone/ThrowSpecificExceptions	throws another exception
+errorprone/ThrowableEqualsHashCode	compares otherwise
+errorprone/TimeUnitMismatch	converts the unit
+errorprone/TypeParameterQualifier	Error Prone's error group: the fix mends a bug, the behaviour changes
+errorprone/UndefinedEquals	compares otherwise
+errorprone/UnnecessaryCheckNotNull	Error Prone's error group: the fix mends a bug, the behaviour changes
+errorprone/UnsafeLocaleUsage	adds a locale
+errorprone/Validator	Error Prone's error group: the fix mends a bug, the behaviour changes
+errorprone/XorPower	Error Prone's error group: the fix mends a bug, the behaviour changes
+eslint/eqeqeq	== becomes ===, which compares otherwise
+eslint/strict	adds 'use strict'
+typescript-eslint/prefer-readonly	adds readonly, a guarantee
+typescript-eslint/promise-function-async	makes a function async: a throw becomes a rejection
+typescript-eslint/return-await	awaits otherwise: try/catch and stack traces change

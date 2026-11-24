@@ -1,0 +1,12 @@
+public class Test {
+  public static void main(String[] args) {
+    switch (args.length) {
+      case 0 -> System.out.println(0);
+      case 1 -> System.out.println(1);
+      case 2 -> {
+        System.out.println(2);
+        System.out.println(2);
+      }
+    }
+  }
+}

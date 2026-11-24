@@ -1,0 +1,24 @@
+pair	why
+clippy/items_after_test_module/root_module-L5	the items moved below `mod tests` show as added here and removed in root_module-L11
+clippy/items_after_test_module/root_module-L11	the other half of root_module-L5
+errorprone/SwitchDefault/L287-10	`default` moved to the end shows as removed here and added in L287-12
+errorprone/SwitchDefault/L287-12	the other half of L287-10
+errorprone/StatementSwitchToExpressionSwitch/L4913-5	`String foo;` hoisted out of the switch of L4913-7 is a pair of its own
+errorprone/StatementSwitchToExpressionSwitch/L4913-7	the switch without the declaration hoisted out of it (L4913-5)
+errorprone/StatementSwitchToExpressionSwitch/L4966-24	the declarations hoisted out of the switch of L4966-26 are a pair of their own
+errorprone/StatementSwitchToExpressionSwitch/L4966-26	the switch without the declarations hoisted out of it (L4966-24)
+ruff/PERF401-manual-list-comprehension/PERF401-L139	`result = []` removed apart from its loop, L141
+ruff/PERF401-manual-list-comprehension/PERF401-L141	the loop without its `result = []` (L139)
+ruff/PERF401-manual-list-comprehension/PERF401-L234	`result = []` removed apart from its loop, L238
+ruff/PERF401-manual-list-comprehension/PERF401-L238	the loop without its `result = []` (L234)
+ruff/PERF401-manual-list-comprehension/PERF401-L271	`dst = []` removed apart from its loop, L274
+ruff/PERF401-manual-list-comprehension/PERF401-L274	the loop without its `dst = []` (L271)
+ruff/PERF403-manual-dict-comprehension/PERF403-L29	`result = {}` removed apart from its loop, L31
+ruff/PERF403-manual-dict-comprehension/PERF403-L31	the loop without its `result = {}` (L29)
+ruff/SIM105-suppressible-exception/SIM105_5-L1	only `import contextlib` added; the rewrite itself is another pair
+ruff/FURB162-fromisoformat-replace-z/FURB162-L25	three statements against the fix of the first one only
+clippy/match_single_binding/match_single_binding-L52	the good side holds the fix of the statement after it too
+ruff/C408-unnecessary-collection-call/C408-L24	the good side holds a statement more than the bad one
+ruff/C409-unnecessary-literal-within-tuple-call/C409-L1	the good side holds two statements more than the bad one
+ruff/FURB162-fromisoformat-replace-z/FURB162-L18	the good side holds the fixes of the statements after it too
+ruff/FURB171-single-item-membership-test/FURB171_0-L57	the good side holds the statement after it too

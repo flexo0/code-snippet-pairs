@@ -1,0 +1,6 @@
+isinstance(x, (*types,))
+isinstance(x, (*types, *types))
+isinstance(x, (int))
+isinstance(x, ())
+(isinstance(x, (int, str)))
+isinstance(x, (int, str))

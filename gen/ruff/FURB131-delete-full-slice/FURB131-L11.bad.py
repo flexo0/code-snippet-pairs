@@ -1,0 +1,4 @@
+del nums[:]
+
+
+# FURB131

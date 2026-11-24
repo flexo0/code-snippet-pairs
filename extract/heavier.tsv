@@ -1,0 +1,293 @@
+pair	why
+clippy/blocks_in_conditions/blocks_in_conditions-L24	a `let` added for the block
+clippy/blocks_in_conditions/blocks_in_conditions_2021-L7	a `let` added for the block
+clippy/bool_comparison/bool_comparison-L121	the same thing in another form, no simpler
+clippy/bool_comparison/bool_comparison-L143	the same thing in another form, no simpler
+clippy/bool_comparison/bool_comparison-L148	the same thing in another form, no simpler
+clippy/bool_comparison/bool_comparison-L32	the same thing in another form, no simpler
+clippy/bool_comparison/bool_comparison-L34	the same thing in another form, no simpler
+clippy/bytes_nth/bytes_nth-L5	the same thing in another form, no simpler
+clippy/bytes_nth/bytes_nth-L7	the same thing in another form, no simpler
+clippy/bytes_nth/bytes_nth-L9	the same thing in another form, no simpler
+clippy/chunks_exact_to_as_chunks/chunks_exact_to_as_chunks_fixable-L11	the same thing in another form, no simpler
+clippy/chunks_exact_to_as_chunks/chunks_exact_to_as_chunks_fixable-L17	the same thing in another form, no simpler
+clippy/chunks_exact_to_as_chunks/chunks_exact_to_as_chunks_fixable-L20	the same thing in another form, no simpler
+clippy/chunks_exact_to_as_chunks/chunks_exact_to_as_chunks_fixable-L22	the same thing in another form, no simpler
+clippy/chunks_exact_to_as_chunks/chunks_exact_to_as_chunks_fixable-L24	the same thing in another form, no simpler
+clippy/chunks_exact_to_as_chunks/chunks_exact_to_as_chunks_fixable-L26	the same thing in another form, no simpler
+clippy/chunks_exact_to_as_chunks/chunks_exact_to_as_chunks_fixable-L32	the same thing in another form, no simpler
+clippy/chunks_exact_to_as_chunks/chunks_exact_to_as_chunks_fixable-L7	the same thing in another form, no simpler
+clippy/chunks_exact_to_as_chunks/chunks_exact_to_as_chunks_fixable-L9	the same thing in another form, no simpler
+clippy/comparison_to_empty/comparison_to_empty-L10	the same thing in another form, no simpler
+clippy/comparison_to_empty/comparison_to_empty-L16	the same thing in another form, no simpler
+clippy/comparison_to_empty/comparison_to_empty-L50	the same thing in another form, no simpler
+clippy/comparison_to_empty/comparison_to_empty-L55	the same thing in another form, no simpler
+clippy/for_kv_map/for_kv_map-L16	the same thing in another form, no simpler
+clippy/for_kv_map/for_kv_map-L26	the same thing in another form, no simpler
+clippy/for_kv_map/for_kv_map-L33	the same thing in another form, no simpler
+clippy/for_kv_map/for_kv_map-L41	the same thing in another form, no simpler
+clippy/for_kv_map/for_kv_map-L49	the same thing in another form, no simpler
+clippy/for_kv_map/for_kv_map-L84	the same thing in another form, no simpler
+clippy/for_kv_map/for_kv_map-L9	the same thing in another form, no simpler
+clippy/from_over_into/from_over_into-L10	the same thing in another form, no simpler
+clippy/from_over_into/from_over_into-L102	the same thing in another form, no simpler
+clippy/from_over_into/from_over_into-L112	the same thing in another form, no simpler
+clippy/from_over_into/from_over_into-L19	the same thing in another form, no simpler
+clippy/from_over_into/from_over_into-L35	the same thing in another form, no simpler
+clippy/from_over_into/from_over_into-L48	the same thing in another form, no simpler
+clippy/from_over_into/from_over_into-L50	the same thing in another form, no simpler
+clippy/from_over_into/from_over_into-L68	the same thing in another form, no simpler
+clippy/from_over_into/from_over_into-L92	the same thing in another form, no simpler
+clippy/let_unit_value/let_unit-L203	split into more statements
+clippy/let_unit_value/let_unit-L220	split into more statements
+clippy/manual_split_once/manual_split_once-L47	a closure added
+clippy/manual_split_once/manual_split_once-L49	a closure added
+clippy/new_without_default/new_without_default-L10	an `impl Default` added
+clippy/new_without_default/new_without_default-L120	an `impl Default` added
+clippy/new_without_default/new_without_default-L180	an `impl Default` added
+clippy/new_without_default/new_without_default-L191	an `impl Default` added
+clippy/new_without_default/new_without_default-L20	an `impl Default` added
+clippy/new_without_default/new_without_default-L200	an `impl Default` added
+clippy/new_without_default/new_without_default-L213	an `impl Default` added
+clippy/new_without_default/new_without_default-L257	an `impl Default` added
+clippy/new_without_default/new_without_default-L270	an `impl Default` added
+clippy/new_without_default/new_without_default-L279	an `impl Default` added
+clippy/new_without_default/new_without_default-L289	an `impl Default` added
+clippy/new_without_default/new_without_default-L298	an `impl Default` added
+clippy/new_without_default/new_without_default-L335	an `impl Default` added
+clippy/new_without_default/new_without_default-L352	an `impl Default` added
+clippy/new_without_default/new_without_default-L375	an `impl Default` added
+clippy/new_without_default/new_without_default-L86	an `impl Default` added
+clippy/option_map_unit_fn/option_map_unit_fn_fixable-L36	an `if let` for a `map`
+clippy/option_map_unit_fn/option_map_unit_fn_fixable-L42	an `if let` for a `map`
+clippy/option_map_unit_fn/option_map_unit_fn_fixable-L97	an `if let` for a `map`
+clippy/result_map_unit_fn/result_map_unit_fn_fixable-L32	an `if let` for a `map`
+clippy/result_map_unit_fn/result_map_unit_fn_fixable-L38	an `if let` for a `map`
+clippy/transmute_bytes_to_str/transmute_ref_to_ref-L32	a checked conversion for a transmute
+clippy/transmute_bytes_to_str/transmute_ref_to_ref-L44	a checked conversion for a transmute
+clippy/transmute_bytes_to_str/transmute_ref_to_ref-L5	a checked conversion for a transmute
+clippy/transmute_bytes_to_str/transmute_ref_to_ref-L50	a checked conversion for a transmute
+clippy/transmute_bytes_to_str/transmute_ref_to_ref-L56	a checked conversion for a transmute
+clippy/transmute_bytes_to_str/transmute_ref_to_ref-L62	a checked conversion for a transmute
+clippy/transmute_bytes_to_str/transmute_ref_to_ref-L69	a checked conversion for a transmute
+clippy/transmute_bytes_to_str/transmute_ref_to_ref-L75	a checked conversion for a transmute
+clippy/transmute_bytes_to_str/transmute_ref_to_ref-L81	a checked conversion for a transmute
+clippy/transmute_bytes_to_str/transmute_ref_to_ref-L87	a checked conversion for a transmute
+clippy/transmute_ptr_to_ref/transmute_ptr_to_ref-L101	the same thing in another form, no simpler
+clippy/transmute_ptr_to_ref/transmute_ptr_to_ref-L117	the same thing in another form, no simpler
+clippy/transmute_ptr_to_ref/transmute_ptr_to_ref-L135	the same thing in another form, no simpler
+clippy/transmute_ptr_to_ref/transmute_ptr_to_ref-L42	the same thing in another form, no simpler
+clippy/transmute_ptr_to_ref/transmute_ptr_to_ref-L45	the same thing in another form, no simpler
+clippy/transmute_ptr_to_ref/transmute_ptr_to_ref-L77	the same thing in another form, no simpler
+clippy/transmutes_expressible_as_ptr_casts/transmutes_expressible_as_ptr_casts-L22	the same thing in another form, no simpler
+clippy/transmutes_expressible_as_ptr_casts/transmutes_expressible_as_ptr_casts-L61	the same thing in another form, no simpler
+clippy/transmutes_expressible_as_ptr_casts/transmutes_expressible_as_ptr_casts-L73	the same thing in another form, no simpler
+clippy/unit_arg/unit_arg_fixable-L18	split into more statements
+clippy/unit_arg/unit_arg_fixable-L20	split into more statements
+clippy/unit_arg/unit_arg_fixable-L45	split into more statements
+clippy/unit_arg/unit_arg_fixable-L47	split into more statements
+clippy/unit_arg/unit_arg_fixable-L58	split into more statements
+clippy/unit_arg/unit_arg_fixable-L65	split into more statements
+clippy/unnecessary_operation/unnecessary_operation-L74	split into more statements
+clippy/unnecessary_operation/unnecessary_operation-L80	split into more statements
+clippy/unnecessary_operation/unnecessary_operation-L86	split into more statements
+clippy/unnecessary_operation/unnecessary_operation-L88	split into more statements
+clippy/useless_nonzero_new_unchecked/useless_nonzero_new_unchecked-L43	a checked call for an unchecked one
+clippy/useless_nonzero_new_unchecked/useless_nonzero_new_unchecked-L7	a checked call for an unchecked one
+errorprone/ASTHelpersSuggestions/L100-5	one API for another
+errorprone/ASTHelpersSuggestions/L125-5	one API for another
+errorprone/ASTHelpersSuggestions/L150-5	one API for another
+errorprone/ASTHelpersSuggestions/L177-5	one API for another
+errorprone/ASTHelpersSuggestions/L35-5	one API for another
+errorprone/ASTHelpersSuggestions/L68-6	one API for another
+errorprone/AnnotationMirrorToString/L34-5	one API for another
+errorprone/AnnotationValueToString/L34-5	one API for another
+errorprone/BadImport/L720-6	a name qualified
+errorprone/ConstantPatternCompile/L108-9	a constant added
+errorprone/ConstantPatternCompile/L148-5	a constant added
+errorprone/ConstantPatternCompile/L180-5	a constant added
+errorprone/ConstantPatternCompile/L215-9	a constant added
+errorprone/ConstantPatternCompile/L40-5	a constant added
+errorprone/ConstantPatternCompile/L72-7	a constant added
+errorprone/DeeplyNested/L142-4	a chain split into statements
+errorprone/DeeplyNested/L37-5	a chain split into statements
+errorprone/DeeplyNested/L90-4	a chain split into statements
+errorprone/ImmutableSetForContains/L91-4	a conversion added
+errorprone/Inliner/L1843-6	one API for another, an argument wrapped
+errorprone/Inliner/L1887-5	one API for another, an argument wrapped
+errorprone/Inliner/L2143-3	one API for another, an argument wrapped
+errorprone/Inliner/L861-5	one API for another, an argument wrapped
+errorprone/Inliner/L912-5	one API for another, an argument wrapped
+errorprone/InterfaceWithOnlyStatics/L157-4	an interface made a class
+errorprone/InterfaceWithOnlyStatics/L187-3	an interface made a class
+errorprone/LoopOverCharArray/L30-3	an index loop for a for-each
+errorprone/MemoizeConstantVisitorStateLookups/L122-6	constants added
+errorprone/MemoizeConstantVisitorStateLookups/L235-7	constants added
+errorprone/MemoizeConstantVisitorStateLookups/L284-9	constants added
+errorprone/MemoizeConstantVisitorStateLookups/L333-8	constants added
+errorprone/MemoizeConstantVisitorStateLookups/L41-5	constants added
+errorprone/MemoizeConstantVisitorStateLookups/L79-8	constants added
+errorprone/MisformattedTestData/L235-1	test data reformatted
+errorprone/MisformattedTestData/L523-1	test data reformatted
+errorprone/NewFileSystem/L40-7	a cast added
+errorprone/NullablePrimitiveArray/L34-18	an annotation moved
+errorprone/RobolectricShadowDirectlyOn/L78-6	one API for another
+errorprone/SingleValueTestParameter/L286-20	a parameter made a local
+errorprone/SingleValueTestParameter/L286-25	a parameter made a local
+errorprone/SingleValueTestParameter/L286-30	a parameter made a local
+errorprone/SingleValueTestParameter/L286-38	a parameter made a local
+errorprone/TypeEqualsChecker/L155-7	one API for another
+errorprone/TypeToString/L140-7	one API for another
+errorprone/TypeToString/L174-7	one API for another
+errorprone/TypeToString/L208-6	one API for another
+errorprone/TypeToString/L306-7	one API for another
+errorprone/UnnecessaryDefaultInEnumSwitch/L1270-12	a case for the default
+errorprone/UnnecessaryDefaultInEnumSwitch/L660-9	a case for the default
+errorprone/UnnecessaryDefaultInEnumSwitch/L766-11	a case for the default
+errorprone/YodaCondition/L104-3	the same thing in another form, no simpler
+errorprone/YodaCondition/L243-3	the same thing in another form, no simpler
+eslint/object-shorthand/object-shorthand-040	the long form, by the rule's option
+eslint/object-shorthand/object-shorthand-041	the long form, by the rule's option
+eslint/object-shorthand/object-shorthand-042	the long form, by the rule's option
+eslint/object-shorthand/object-shorthand-043	the long form, by the rule's option
+eslint/object-shorthand/object-shorthand-044	the long form, by the rule's option
+eslint/object-shorthand/object-shorthand-045	the long form, by the rule's option
+eslint/object-shorthand/object-shorthand-046	the long form, by the rule's option
+eslint/object-shorthand/object-shorthand-047	the long form, by the rule's option
+eslint/object-shorthand/object-shorthand-050	the long form, by the rule's option
+eslint/object-shorthand/object-shorthand-051	the long form, by the rule's option
+eslint/object-shorthand/object-shorthand-053	the long form, by the rule's option
+eslint/object-shorthand/object-shorthand-055	the long form, by the rule's option
+eslint/object-shorthand/object-shorthand-056	the long form, by the rule's option
+eslint/object-shorthand/object-shorthand-057	the long form, by the rule's option
+eslint/object-shorthand/object-shorthand-058	the long form, by the rule's option
+eslint/object-shorthand/object-shorthand-059	the long form, by the rule's option
+eslint/object-shorthand/object-shorthand-060	the long form, by the rule's option
+eslint/object-shorthand/object-shorthand-083	the long form, by the rule's option
+eslint/object-shorthand/object-shorthand-084	the long form, by the rule's option
+eslint/object-shorthand/object-shorthand-085	the long form, by the rule's option
+eslint/object-shorthand/object-shorthand-114	the long form, by the rule's option
+eslint/object-shorthand/object-shorthand-118	the long form, by the rule's option
+eslint/one-var/one-var-001	a declaration split in two, by the rule's option
+eslint/one-var/one-var-002	a declaration split in two, by the rule's option
+eslint/one-var/one-var-003	a declaration split in two, by the rule's option
+eslint/one-var/one-var-004	a declaration split in two, by the rule's option
+eslint/one-var/one-var-005	a declaration split in two, by the rule's option
+eslint/one-var/one-var-007	a declaration split in two, by the rule's option
+eslint/one-var/one-var-008	a declaration split in two, by the rule's option
+eslint/one-var/one-var-011	a declaration split in two, by the rule's option
+eslint/one-var/one-var-018	a declaration split in two, by the rule's option
+eslint/one-var/one-var-020	a declaration split in two, by the rule's option
+eslint/one-var/one-var-021	a declaration split in two, by the rule's option
+eslint/one-var/one-var-024	a declaration split in two, by the rule's option
+eslint/one-var/one-var-029	a declaration split in two, by the rule's option
+eslint/one-var/one-var-030	a declaration split in two, by the rule's option
+eslint/one-var/one-var-034	a declaration split in two, by the rule's option
+eslint/one-var/one-var-035	a declaration split in two, by the rule's option
+eslint/one-var/one-var-036	a declaration split in two, by the rule's option
+eslint/one-var/one-var-037	a declaration split in two, by the rule's option
+eslint/one-var/one-var-038	a declaration split in two, by the rule's option
+eslint/one-var/one-var-039	a declaration split in two, by the rule's option
+eslint/one-var/one-var-040	a declaration split in two, by the rule's option
+eslint/one-var/one-var-041	a declaration split in two, by the rule's option
+eslint/one-var/one-var-042	a declaration split in two, by the rule's option
+eslint/one-var/one-var-060	a declaration split in two, by the rule's option
+eslint/one-var/one-var-062	a declaration split in two, by the rule's option
+eslint/one-var/one-var-064	a declaration split in two, by the rule's option
+eslint/one-var/one-var-072	a declaration split in two, by the rule's option
+eslint/one-var/one-var-074	a declaration split in two, by the rule's option
+eslint/one-var/one-var-076	a declaration split in two, by the rule's option
+eslint/one-var/one-var-095	a declaration split in two, by the rule's option
+eslint/one-var/one-var-096	a declaration split in two, by the rule's option
+eslint/one-var/one-var-097	a declaration split in two, by the rule's option
+eslint/one-var/one-var-098	a declaration split in two, by the rule's option
+eslint/one-var/one-var-099	a declaration split in two, by the rule's option
+eslint/one-var/one-var-100	a declaration split in two, by the rule's option
+eslint/one-var/one-var-101	a declaration split in two, by the rule's option
+eslint/one-var/one-var-102	a declaration split in two, by the rule's option
+eslint/one-var/one-var-103	a declaration split in two, by the rule's option
+eslint/one-var/one-var-104	a declaration split in two, by the rule's option
+eslint/one-var/one-var-113	a declaration split in two, by the rule's option
+eslint/one-var/one-var-114	a declaration split in two, by the rule's option
+eslint/operator-assignment/operator-assignment-019	the long form, by the rule's option
+eslint/operator-assignment/operator-assignment-029	the long form, by the rule's option
+ruff/FURB148-unnecessary-enumerate/FURB148-L14	the same thing in another form, no simpler
+ruff/FURB148-unnecessary-enumerate/FURB148-L17	the same thing in another form, no simpler
+ruff/FURB148-unnecessary-enumerate/FURB148-L20	the same thing in another form, no simpler
+ruff/FURB148-unnecessary-enumerate/FURB148-L56	the same thing in another form, no simpler
+ruff/FURB148-unnecessary-enumerate/FURB148-L62	the same thing in another form, no simpler
+ruff/FURB148-unnecessary-enumerate/FURB148-L65	the same thing in another form, no simpler
+ruff/FURB148-unnecessary-enumerate/FURB148-L68	the same thing in another form, no simpler
+ruff/FURB148-unnecessary-enumerate/FURB148-L74	the same thing in another form, no simpler
+ruff/FURB148-unnecessary-enumerate/FURB148-L80	the same thing in another form, no simpler
+ruff/FURB156-hardcoded-string-charset/FURB156-L12	the same thing in another form, no simpler
+ruff/FURB156-hardcoded-string-charset/FURB156-L13	the same thing in another form, no simpler
+ruff/FURB156-hardcoded-string-charset/FURB156-L17	the same thing in another form, no simpler
+ruff/FURB156-hardcoded-string-charset/FURB156-L21	the same thing in another form, no simpler
+ruff/FURB156-hardcoded-string-charset/FURB156-L25	the same thing in another form, no simpler
+ruff/FURB156-hardcoded-string-charset/FURB156-L3	the same thing in another form, no simpler
+ruff/FURB156-hardcoded-string-charset/FURB156-L31	the same thing in another form, no simpler
+ruff/FURB157-verbose-decimal-constructor/FURB157-L23	a number literal for a string literal
+ruff/FURB157-verbose-decimal-constructor/FURB157-L75	a number literal for a string literal
+ruff/FURB157-verbose-decimal-constructor/FURB157-L81	a number literal for a string literal
+ruff/FURB157-verbose-decimal-constructor/FURB157-L85	a number literal for a string literal
+ruff/FURB157-verbose-decimal-constructor/FURB157-L91	a number literal for a string literal
+ruff/FURB167-regex-flag-alias/FURB167-L21	a name qualified
+ruff/RET503-implicit-return/RET503-L114	an explicit `return None` added
+ruff/RET503-implicit-return/RET503-L121	an explicit `return None` added
+ruff/RET503-implicit-return/RET503-L131	an explicit `return None` added
+ruff/RET503-implicit-return/RET503-L138	an explicit `return None` added
+ruff/RET503-implicit-return/RET503-L21	an explicit `return None` added
+ruff/RET503-implicit-return/RET503-L27	an explicit `return None` added
+ruff/RET503-implicit-return/RET503-L275	an explicit `return None` added
+ruff/RET503-implicit-return/RET503-L288	an explicit `return None` added
+ruff/RET503-implicit-return/RET503-L301	an explicit `return None` added
+ruff/RET503-implicit-return/RET503-L311	an explicit `return None` added
+ruff/RET503-implicit-return/RET503-L316	an explicit `return None` added
+ruff/RET503-implicit-return/RET503-L321	an explicit `return None` added
+ruff/RET503-implicit-return/RET503-L326	an explicit `return None` added
+ruff/RET503-implicit-return/RET503-L33	an explicit `return None` added
+ruff/RET503-implicit-return/RET503-L398	an explicit `return None` added
+ruff/RET503-implicit-return/RET503-L418	an explicit `return None` added
+ruff/RET503-implicit-return/RET503-L42	an explicit `return None` added
+ruff/RET503-implicit-return/RET503-L48	an explicit `return None` added
+ruff/RET503-implicit-return/RET503-L57	an explicit `return None` added
+ruff/RET503-implicit-return/RET503-L64	an explicit `return None` added
+ruff/RET503-implicit-return/RET503-L82	an explicit `return None` added
+staticcheck/QF1001/CheckDeMorgan-L8-fix1	the same thing in another form, no simpler
+staticcheck/QF1010/CheckByteSlicePrinting-L12	a conversion added
+staticcheck/QF1010/CheckByteSlicePrinting-L17	a conversion added
+staticcheck/QF1010/CheckByteSlicePrinting-L23	a conversion added
+typescript-eslint/consistent-type-definitions/consistent-type-definitions-001	the same thing in another form, no simpler
+typescript-eslint/consistent-type-definitions/consistent-type-definitions-002	the same thing in another form, no simpler
+typescript-eslint/consistent-type-definitions/consistent-type-definitions-003	the same thing in another form, no simpler
+typescript-eslint/consistent-type-definitions/consistent-type-definitions-004	the same thing in another form, no simpler
+typescript-eslint/consistent-type-definitions/consistent-type-definitions-005	the same thing in another form, no simpler
+typescript-eslint/consistent-type-definitions/consistent-type-definitions-015	the same thing in another form, no simpler
+typescript-eslint/consistent-type-definitions/consistent-type-definitions-017	the same thing in another form, no simpler
+typescript-eslint/consistent-type-definitions/consistent-type-definitions-018	the same thing in another form, no simpler
+typescript-eslint/consistent-type-definitions/consistent-type-definitions-019	the same thing in another form, no simpler
+typescript-eslint/consistent-type-definitions/consistent-type-definitions-020	the same thing in another form, no simpler
+typescript-eslint/consistent-type-definitions/consistent-type-definitions-021	the same thing in another form, no simpler
+typescript-eslint/method-signature-style/method-signature-style-010	the same thing in another form, no simpler
+typescript-eslint/method-signature-style/method-signature-style-011	the same thing in another form, no simpler
+typescript-eslint/method-signature-style/method-signature-style-012	the same thing in another form, no simpler
+typescript-eslint/method-signature-style/method-signature-style-013	the same thing in another form, no simpler
+typescript-eslint/method-signature-style/method-signature-style-014	the same thing in another form, no simpler
+typescript-eslint/method-signature-style/method-signature-style-015	the same thing in another form, no simpler
+typescript-eslint/method-signature-style/method-signature-style-016	the same thing in another form, no simpler
+typescript-eslint/method-signature-style/method-signature-style-017	the same thing in another form, no simpler
+typescript-eslint/method-signature-style/method-signature-style-018	the same thing in another form, no simpler
+typescript-eslint/method-signature-style/method-signature-style-022	the same thing in another form, no simpler
+typescript-eslint/method-signature-style/method-signature-style-023	the same thing in another form, no simpler
+typescript-eslint/method-signature-style/method-signature-style-024	the same thing in another form, no simpler
+typescript-eslint/no-confusing-void-expression/no-confusing-void-expression-006	a `void` or a statement added
+typescript-eslint/no-confusing-void-expression/no-confusing-void-expression-007	a `void` or a statement added
+typescript-eslint/no-confusing-void-expression/no-confusing-void-expression-010	a `void` or a statement added
+typescript-eslint/no-confusing-void-expression/no-confusing-void-expression-011	a `void` or a statement added
+typescript-eslint/no-confusing-void-expression/no-confusing-void-expression-015	a `void` or a statement added
+typescript-eslint/no-confusing-void-expression/no-confusing-void-expression-016	a `void` or a statement added
+typescript-eslint/no-confusing-void-expression/no-confusing-void-expression-035	a `void` or a statement added
+typescript-eslint/no-unnecessary-boolean-literal-compare/no-unnecessary-boolean-literal-compare-020	`?? true` added for a nullable boolean
+typescript-eslint/no-unnecessary-boolean-literal-compare/no-unnecessary-boolean-literal-compare-026	`?? true` added for a nullable boolean
+typescript-eslint/prefer-regexp-exec/prefer-regexp-exec-004	the same thing in another form, no simpler

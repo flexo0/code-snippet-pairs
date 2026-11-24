@@ -1,0 +1,1 @@
+_ = Decimal("inf")

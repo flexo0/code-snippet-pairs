@@ -1,0 +1,8 @@
+print(*args, sep="")
+print(**kwargs)
+print()
+print()
+print()
+print()
+print(end="bar")
+print(1)

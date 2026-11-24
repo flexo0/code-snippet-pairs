@@ -1,0 +1,6 @@
+list(x)
+set(x)
+dict(y)
+dict(d.items())
+list(d.items())
+list(d.items())

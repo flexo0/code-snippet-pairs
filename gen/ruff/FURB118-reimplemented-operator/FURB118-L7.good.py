@@ -1,0 +1,13 @@
+op_add = operator.add
+op_sub = operator.sub
+op_mult = operator.mul
+op_matmutl = operator.matmul
+op_truediv = operator.truediv
+op_mod = operator.mod
+op_pow = operator.pow
+op_lshift = operator.lshift
+op_rshift = operator.rshift
+op_bitor = operator.or_
+op_xor = operator.xor
+op_bitand = operator.and_
+op_floordiv = operator.floordiv

@@ -1,0 +1,10 @@
+count = (x).bit_count()  # FURB161
+count = (10).bit_count()  # FURB161
+count = 0b1010.bit_count()  # FURB161
+count = 0xA.bit_count()  # FURB161
+count = 0o12.bit_count()  # FURB161
+count = (0x10 + 0x1000).bit_count()  # FURB161
+count = ten().bit_count()  # FURB161
+count = (10).bit_count()  # FURB161
+count = ("10" "15").bit_count()  # FURB161
+count = "123".bit_count() # FURB161

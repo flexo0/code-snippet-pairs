@@ -1,0 +1,3 @@
+class Test {
+  int a = foo(1, 2, 3) + bar(1, 2, 3) + baz(1, 2, 3);
+}

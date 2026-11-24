@@ -1,0 +1,26 @@
+pair	bad	good	verdict	difference
+go/s1000_single_case_select	7	5	ok	branch+1
+go/s1001_loop_copy	8.35	4.6	ok	statement+1 call-1 loop+1 access+1
+go/s1008_bool_return	7.75	3.75	ok	branch+1 jump+2
+go/s1011_loop_append	9.6	5.6	ok	statement+1 loop+1
+go/s1017_trim_prefix	9.35	5.6	ok	statement+1 call+1 branch+1 access+1
+go/s1031_nil_check_around_loop	14.25	8	ok	statement+1 branch+1 loop+1 operator+1
+js/no_else_return	12	10	ok	jump+2
+js/no_lonely_if	12	9	ok	statement+1 branch+1
+js/no_unneeded_ternary	3.25	1.25	ok	branch+1
+js/no_useless_return	11	9	ok	jump+2
+python/collapsible_else_if	18.5	14.5	ok	statement+2 branch+1
+python/dict_get	7.5	2.5	ok	statement+3 call-1 branch+1 operator+1 access+1
+python/enumerate_for_loop	10	7.25	ok	statement+3 call-1 operator+1
+python/manual_list_comprehension	13.75	12.25	ok	statement+1 call+1
+python/needless_bool	8.75	3.75	ok	statement-1 branch+1 jump+4
+python/reimplemented_builtin	13.5	9	ok	statement-2 call-1 branch+2 jump+3
+python/too_many_return_statements	30.25	5.25	ok	statement-2 call-1 branch+6 jump+14 operator+6
+rust/collapsible_if	12.5	8.5	ok	statement+1 branch+2 bool_op-1
+rust/explicit_counter_loop	11.25	9	ok	statement+3 call-2 operator+1
+rust/manual_filter	20.5	9	ok	statement+6 branch+4 lambda-1 parameter-1
+rust/manual_find	14.25	9.25	ok	statement-2 call-1 branch+2 loop+1 lambda-1 jump+3 parameter-1
+rust/manual_flatten	14	10	ok	statement+1 call-2 branch+2
+rust/manual_unwrap_or	12	4.5	ok	statement+4 call-1 branch+2
+rust/while_let_loop	25	9	ok	statement+5 branch+4 jump+3
+ts/prefer_optional_chain	12.5	5.75	ok	bool_op+3 operator+3 access+12

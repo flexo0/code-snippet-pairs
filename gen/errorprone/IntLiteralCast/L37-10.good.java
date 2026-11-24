@@ -1,0 +1,5 @@
+class Test {
+  void f() {
+    List<Float> floats = Arrays.asList(0.0f, 1.0f, 2.0f);
+  }
+}

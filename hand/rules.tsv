@@ -1,0 +1,6 @@
+rule	group	ok	broken	no-positive	invisible	ok
+go		6	0	0	0	100%
+js		4	0	0	0	100%
+python		7	0	0	0	100%
+rust		7	0	0	0	100%
+ts		1	0	0	0	100%

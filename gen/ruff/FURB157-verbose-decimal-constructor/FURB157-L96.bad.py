@@ -1,0 +1,6 @@
+Decimal(
+    float(
+        # text
+        "Infinity"
+    )
+)

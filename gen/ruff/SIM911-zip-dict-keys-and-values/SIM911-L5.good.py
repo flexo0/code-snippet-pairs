@@ -1,0 +1,3 @@
+def foo(d: dict[str, str]) -> None:
+    for k, v in d.items():  # SIM911
+        ...

@@ -1,0 +1,10 @@
+
+declare const foo:
+  | {
+      bar:
+        { baz: { buzz: (() => number) | null | undefined } } | null | undefined;
+    }
+  | null
+  | undefined;
+!foo || !foo.bar || !foo.bar.baz.buzz || !foo.bar.baz.buzz();
+      

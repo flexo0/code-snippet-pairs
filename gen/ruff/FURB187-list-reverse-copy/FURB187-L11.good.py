@@ -1,0 +1,2 @@
+def b():
+    l.reverse()

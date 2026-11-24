@@ -1,0 +1,13 @@
+op_add = lambda x, y: x + y
+op_sub = lambda x, y: x - y
+op_mult = lambda x, y: x * y
+op_matmutl = lambda x, y: x @ y
+op_truediv = lambda x, y: x / y
+op_mod = lambda x, y: x % y
+op_pow = lambda x, y: x ** y
+op_lshift = lambda x, y: x << y
+op_rshift = lambda x, y: x >> y
+op_bitor = lambda x, y: x | y
+op_xor = lambda x, y: x ^ y
+op_bitand = lambda x, y: x & y
+op_floordiv = lambda x, y: x // y

@@ -1,0 +1,25 @@
+# The names anonymize.py leaves alone: the JDK's and the libraries' (Lombok, Spring, fastutil, Guava, Jackson), which
+# are the same in every codebase and carry the refactor (`stream`, `computeIfAbsent`, `BitSet`). A line is
+# `<kind> <name>...`: `T` a type, annotation or constant, kept wherever it stands; `M` a method, kept where it is
+# called, referred to (`::`) or declared; `F` a field, kept after a dot. Every other name is renamed.
+T ArrayList Arrays BiPredicate BitSet Callable Class Collection Collections Collectors Comparable Comparator Double
+T Duration Entry EnumSet Exception ExecutionException ExecutorService Executors Future HashMap HashSet Instant Integer
+T InterruptedException List LocalDate LocalDateTime Long Map Math Object Objects Override Set Short String StringBuilder
+T System Thread TreeSet IllegalArgumentException IllegalStateException RuntimeException SQLException ResultSet
+T Getter Setter NonNull Nonnull NotNull Nullable RequiredArgsConstructor FieldDefaults NonFinal Transactional
+T ExceptionHandler JsonIgnore Propagation Isolation READ_COMMITTED REQUIRES_NEW BAD_REQUEST
+T Lists ObjectUtils NotImplementedException LocaleContextHolder ServletWebRequest
+T ResponseEntity RestTemplate HttpEntity HttpHeaders HttpMethod HttpStatus
+T JdbcTemplate NamedParameterJdbcTemplate MapSqlParameterSource
+T Int2IntMap Int2ObjectMap Int2ObjectOpenHashMap IntList IntArrayList IntOpenHashSet IntSet LongSet LongOpenHashSet
+T Long2ShortMap Short2ObjectMap Short2ObjectOpenHashMap Short2ShortMap ShortSet ShortOpenHashSet
+M abs accept add addAll allMatch allOf and append apply between boxed cardinality clone collect compare compareTo
+M comparingInt computeIfAbsent contains containsAll copyOf defaultReturnValue emptySet entrySet equals error
+M exchange execute factory fill filter findAllById findById findFirst flatMap forEach format formatted get
+M getActiveProfiles getClass getEpochSecond getFirst getKey getLocale getMessage getOrDefault getStatusCode getString
+M getValue groupingBy hashCode info intStream intersects invokeAll is5xxServerError isDone isEmpty isInterrupted isNull
+M join joining map mapToInt mapToObj matchesProfiles name nanoTime newFixedThreadPool nextDouble nextSetBit nonNull now
+M of ofEpochSecond ofNullable ofVirtual or orElse orElseThrow partition println put query removeIf repeat retainAll
+M saveAll set short2ObjectEntrySet singletonList size sleep sort startsWith stream test toArray toInstant toList
+M toLocalDateTime toSeconds toSet toString trace value valueOf values warn plusHours
+F length log out

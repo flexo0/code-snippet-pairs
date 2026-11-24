@@ -1,0 +1,5 @@
+"a,b,c,d".split(maxsplit=1)
+"a,b,c,d".split(maxsplit=0)
+"VERB AUX PRON ADP DET".split(" ")
+'   1   2   3   '.split()
+'1<>2<>3<4'.split('<>')

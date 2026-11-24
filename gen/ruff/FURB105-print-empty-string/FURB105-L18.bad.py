@@ -1,0 +1,8 @@
+print("", *args, sep="")
+print("", **kwargs)
+print(sep="\t")
+print(sep=print(1))
+print(f"")
+print(f"", sep=",")
+print(f"", end="bar")
+print(1, sep=None)

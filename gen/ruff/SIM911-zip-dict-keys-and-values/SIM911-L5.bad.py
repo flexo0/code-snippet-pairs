@@ -1,0 +1,3 @@
+def foo(d: dict[str, str]) -> None:
+    for k, v in zip(d.keys(), d.values(), strict=True):  # SIM911
+        ...

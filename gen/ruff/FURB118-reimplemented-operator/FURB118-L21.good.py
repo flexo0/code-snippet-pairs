@@ -1,0 +1,15 @@
+op_eq = operator.eq
+op_ne = operator.ne
+op_lt = operator.lt
+op_lte = operator.le
+op_gt = operator.gt
+op_gte = operator.ge
+op_is = operator.is_
+op_isnot = operator.is_not
+op_in = operator.contains
+op_itemgetter = operator.itemgetter(0)
+op_itemgetter = operator.itemgetter(0, 1, 2)
+op_itemgetter = operator.itemgetter(slice(1, None), 2)
+op_itemgetter = operator.itemgetter(slice(None))
+op_itemgetter = operator.itemgetter((0, 1))
+op_itemgetter = operator.itemgetter((0, 1))

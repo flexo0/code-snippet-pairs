@@ -1,0 +1,1 @@
+Object.hasOwn(object, property);

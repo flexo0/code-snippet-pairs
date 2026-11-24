@@ -1,0 +1,4 @@
+reversed(sorted
+(""))
+list(sorted
+    (""))

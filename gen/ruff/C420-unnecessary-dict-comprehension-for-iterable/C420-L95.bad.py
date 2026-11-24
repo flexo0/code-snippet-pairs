@@ -1,0 +1,9 @@
+{ # 1
+a # 2
+: # 3
+None # 4
+for # 5
+a # 6
+in # 7
+iterable # 8
+} # 9
